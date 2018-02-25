@@ -1,0 +1,76 @@
+body {
+	font-size:20px;
+}
+.intro {
+	line-height: 100px;
+	background-color: #3F4D52;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	font-weight: 800;
+
+}
+.h-b {
+	border-bottom: 3px solid red;
+}
+
+.read {
+	color:gray;
+	font-weight: 600;
+}
+
+.fs {
+	font-size: 30px;
+
+}
+.blog {
+	font-size:150px;
+}
+
+.align {
+	text-align: center;
+
+}
+.one-style {
+	padding-bottom: 2px;
+	border-bottom: 3px solid #BBC6C7;
+	margin-bottom: 10px;
+}
+
+
+h4,h6 {
+	margin-bottom: 5px;
+}
+.padding {
+	padding-top: 10px;
+}
+.img {
+	width: 400px;
+	height: auto;
+}
+.navbar-brand {
+	font-family: impact;
+	font-size: 30px;
+}
+.small-img {
+	width: 175px;
+	height: auto;
+}
+
+.author {
+	font-size: 24px;
+	color:#51676E;
+	font-family: cursive;
+}
+.last {
+	margin-top: 10px;
+	width: 100%;
+	background-color: lightblue;
+	font-size: 25px;
+	text-align: center;
+}
+.date {
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color:darkblue;
+}
