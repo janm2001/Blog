@@ -44,9 +44,9 @@ h4,h6 {
 .padding {
 	padding-top: 10px;
 }
-.img {
-	width: 400px;
-	height: auto;
+img{
+	width: 500px;
+	height: 350px;
 }
 .navbar-brand {
 	font-family: impact;
@@ -73,4 +73,8 @@ h4,h6 {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	color:darkblue;
+}
+
+.img{
+	text-align: center;
 }
